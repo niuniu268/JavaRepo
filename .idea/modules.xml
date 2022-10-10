@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" filepath="$PROJECT_DIR$/ArrayPractice/ArrayPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritentPractice1/InheritentPractice1.iml" filepath="$PROJECT_DIR$/InheritentPractice1/InheritentPractice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayPractice/InheritentPractice2/InheritentPractice2.iml" filepath="$PROJECT_DIR$/ArrayPractice/InheritentPractice2/InheritentPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritentPractice3/InheritentPractice3.iml" filepath="$PROJECT_DIR$/InheritentPractice3/InheritentPractice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaRepo.iml" filepath="$PROJECT_DIR$/.idea/JavaRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPractice1/StringPractice1.iml" filepath="$PROJECT_DIR$/StringPractice1/StringPractice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPractice13/StringPractice13.iml" filepath="$PROJECT_DIR$/StringPractice13/StringPractice13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPractice2/StringPractice2.iml" filepath="$PROJECT_DIR$/StringPractice2/StringPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPractice3/StringPractice3.iml" filepath="$PROJECT_DIR$/StringPractice3/StringPractice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPractice4/StringPractice4.iml" filepath="$PROJECT_DIR$/StringPractice4/StringPractice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringPractice5/StringPractice5.iml" filepath="$PROJECT_DIR$/StringPractice5/StringPractice5.iml" />
+    </modules>
+  </component>
+</project>
