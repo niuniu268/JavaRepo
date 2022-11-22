@@ -18,4 +18,10 @@ public class PingpongAthlete extends Person implements PingPong, English{
 
 
     }
+
+
+
+
+
+
 }
